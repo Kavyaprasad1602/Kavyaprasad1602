@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kavya Prasad
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on top companies
-- 📫 How to reach me kavyaprasad1602@gmail.com
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning and improving on Python.
+- 💞️ I’m looking to collaborate with top companies.
+- 📫 How to reach me: You can contact me at kavyaprasad1602@gmail.com.
 
 <!---
 Kavyaprasad1602/Kavyaprasad1602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
